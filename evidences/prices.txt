@@ -1,0 +1,1 @@
+Minimum value: 34520 & Maximum value: 41915
